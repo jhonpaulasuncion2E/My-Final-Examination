@@ -1,0 +1,3 @@
+Github is a website for developers and programmers to collaborativelly work on code.
+The primary benefit of Github is it's version control system, which allows for seamless collaboration without compromising the integrity of the original project.
+The project on Github are examples of open-source software. If you have open-source projects that use Git, then Github is designed to help you better manage them.
